@@ -1,8 +1,8 @@
 <template>
   <div>
-    <nav class="px-2 md:px-28 fixed w-full top-0 z-50" id="navbar">
+    <nav class="fixed w-full top-0 z-50" id="navbar">
       <div class="container mx-auto px-4">
-        <div class="flex items-center justify-between h-16">
+        <div class="flex items-center justify-between h-20 px-28">
           <!-- Logo -->
           <div class="flex-shrink-0">
             <img src="../assets/icon.png" class="w-9 h-9" />
@@ -13,17 +13,17 @@
             <div class="flex items-center space-x-4 gap-3">
               <a
                 href="#home"
-                class="active px-9 py-2 text-md font-medium text-white hover:bg-[#252529] hover:text-mainGreen rounded-full"
+                class="active px-9 py-2 text-md font-bold text-white hover:bg-[#252529] hover:text-mainGreen rounded-full"
                 >Home</a
               >
               <a
                 href="#about"
-                class="px-9 py-2 text-md font-medium text-white hover:bg-[#252529] hover:text-mainGreen rounded-full"
+                class="px-9 py-2 text-md font-md text-white hover:bg-[#252529] hover:text-mainGreen rounded-full"
                 >About</a
               >
               <a
                 href="#project"
-                class="px-9 py-2 text-md font-medium text-white hover:bg-[#252529] hover:text-mainGreen rounded-full"
+                class="px-9 py-2 text-md font-md text-white hover:bg-[#252529] hover:text-mainGreen rounded-full"
                 >Projects</a
               >
             </div>

@@ -1,8 +1,8 @@
 <template>
   <div
-    class="min-h-36 w-full bg-gray-100 flex flex-col items-center justify-center px-32"
+    class="min-h-36 w-full bg-gray-100 flex flex-col items-center justify-center px-36"
   >
-    <div class="border-t flex justify-between w-full py-9">
+    <div class="border-t border-gray flex justify-between w-full py-9">
       <div class="text-white">
         <ul class="flex justify-between gap-8">
           <li><a href="#home">Home</a></li>
@@ -11,7 +11,7 @@
         </ul>
       </div>
       <div class="text-sm text-[#666666]">
-        CC BY 4.0 - Designed by <strong>Jeric Eduarte</strong>. All rights
+        My Portfolio - Designed by <strong>Jeric Eduarte</strong>. All rights
         reserved.
       </div>
     </div>
