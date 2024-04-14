@@ -10,14 +10,24 @@
     </div>
     <div class="w-1/4 flex justify-end">
       <div class="flex flex-row gap-6 font-bold text-base">
-        <button class="bg-mainGreen py-2 px-5 rounded-full text-white">
-          Download CV
-        </button>
-        <button
-          class="border border-mainGreen text-mainGreen hover:bg-mainGreen hover:text-white py-2 px-10 rounded-full"
+        <a
+          href="https://drive.google.com/file/d/1XRyMRgpKMxS3rSX1LFjMFW_05kcIwnwe/view?usp=sharing"
+          target="_blank"
         >
-          Hire me
-        </button>
+          <button class="bg-mainGreen py-2 px-5 rounded-full text-white">
+            Download CV
+          </button>
+        </a>
+        <a
+          href="https://drive.google.com/file/d/1XRyMRgpKMxS3rSX1LFjMFW_05kcIwnwe/view?usp=sharing"
+          target="_blank"
+        >
+          <button
+            class="border border-mainGreen text-mainGreen hover:bg-mainGreen hover:text-white py-2 px-10 rounded-full"
+          >
+            Hire me
+          </button>
+        </a>
       </div>
     </div>
   </div>
